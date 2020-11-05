@@ -1,4 +1,5 @@
 rm -f PowerInput.txt
+echo "Please enter the input:"
 while true; do
         read line
         echo "$line">>PowerInput.txt
