@@ -11,3 +11,4 @@ Sample Input Example-
 1544213763	TurnOff
 EOF
 Once all entries are given type "EOF" and press Enter- the output will be displayed
+Note: Validations are handled only for the critical cases
